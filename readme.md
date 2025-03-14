@@ -15,6 +15,7 @@ First use cases:
 ## Components
 
 ### `MsgBuff`
+
 The C++ test app.
 Instantiates a `uni_gamepad`, serializes it as a `messagepack`, and outputs it to `stdout` as well as writing it out to `message.bin`.
 
