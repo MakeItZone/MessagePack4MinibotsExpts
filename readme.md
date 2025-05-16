@@ -20,3 +20,10 @@ The C++ test app.
 Instantiates a `uni_gamepad`, serializes it as a `messagepack`, and outputs it to `stdout` as well as writing it out to `message.bin`.
 
 Use something like `xxd` to view `message.bin` as a hex dump.
+
+## XRP Resources 16/05/25
+
+* XRP main page - https://experientialrobotics.org/
+* OpenSTEM - https://github.com/Open-STEM
+* OpenSTEM-XRPWeb - https://github.com/Open-STEM/XRPWeb
+* OpenSTEM-XPR_MycroPython - https://github.com/Open-STEM/XRP_MicroPython
