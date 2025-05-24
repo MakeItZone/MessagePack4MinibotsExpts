@@ -27,3 +27,4 @@ Use something like `xxd` to view `message.bin` as a hex dump.
 * OpenSTEM - https://github.com/Open-STEM
 * OpenSTEM-XRPWeb - https://github.com/Open-STEM/XRPWeb
 * OpenSTEM-XPR_MycroPython - https://github.com/Open-STEM/XRP_MicroPython
+* XRP Controller Diagram - https://docs.sparkfun.com/SparkFun_XRP_Controller/hardware_overview/
