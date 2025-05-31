@@ -28,3 +28,18 @@ Use something like `xxd` to view `message.bin` as a hex dump.
 * OpenSTEM-XRPWeb - https://github.com/Open-STEM/XRPWeb
 * OpenSTEM-XPR_MycroPython - https://github.com/Open-STEM/XRP_MicroPython
 * XRP Controller Diagram - https://docs.sparkfun.com/SparkFun_XRP_Controller/hardware_overview/
+
+## May 30th 
+
+```python
+
+from XRPLib.motor import SinglePWMMotor
+# first pin is dir second pin is speed
+motor = SinglePWMMotor(27,26,False)
+
+
+while True:
+  motor.set_effort((-0.25))
+  print('abc')
+
+```
